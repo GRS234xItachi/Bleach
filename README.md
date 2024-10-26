@@ -11,17 +11,26 @@ When you run the program, you'll be presented with a list of Bleach characters a
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 𝐎𝐮𝐭𝐩𝐮𝐭:
 >Rukia Kuchiki Bankai = 1
->Byakuya Kuchiki Bankai = 2
-Ichigo Kurosaki Bankai = 3
-Tōshirō Hitsugaya Bankai = 4
-Kyoraku Shunsui Bankai = 5
-Genryusai Shigekuni Yamamoto Bankai = 6
-Renji Abarai Bankai = 7
-Sajin Komamura Bankai = 8
-Mayuri Kurotsuchi Bankai = 9
-Retsu Unohana Bankai = 10
 
- Bankai: 3
+>Byakuya Kuchiki Bankai = 2
+
+>Ichigo Kurosaki Bankai = 3
+
+>Tōshirō Hitsugaya Bankai = 4
+
+>Kyoraku Shunsui Bankai = 5
+
+>Genryusai Shigekuni Yamamoto Bankai = 6
+
+>Renji Abarai Bankai = 7
+
+>Sajin Komamura Bankai = 8
+
+>Mayuri Kurotsuchi Bankai = 9
+
+>Retsu Unohana Bankai = 10
+
+>>Bankai: 3
 
 >>Tensa Zangetsu
 Heaven Chain Slaying Moon
