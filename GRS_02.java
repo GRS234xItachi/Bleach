@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class GRS_02 {
+public class Bleach {
     public static void main (String [] args){
         Scanner inp = new Scanner (System.in);
         System.out.println("Rukia Kuchiki Bankai = 1");
