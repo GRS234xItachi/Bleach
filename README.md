@@ -44,9 +44,9 @@ Open the project in your favorite Java IDE or run it from the command line.
 Run the program and follow the prompts.
 
 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
-Java 8 or higher
-A working terminal/command line
-Contribution
+>Java 8 or higher
+>A working terminal/command line
+𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧:
 Feel free to fork this repository, make improvements, or add more Bleach characters and their Bankai! Submit a pull request, and I'll be happy to review your contributions.
 
 𝐋𝐢𝐜𝐞𝐧𝐬𝐞:
