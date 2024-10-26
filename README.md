@@ -32,7 +32,7 @@ When you run the program, you'll be presented with a list of Bleach characters a
 
 >>Bankai: 3
 
->>Tensa Zangetsu
+>>>Tensa Zangetsu
 Heaven Chain Slaying Moon
 
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧:
