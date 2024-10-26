@@ -10,7 +10,7 @@ How It Works
 When you run the program, you'll be presented with a list of Bleach characters along with numbers assigned to their Bankai abilities. After inputting the corresponding number, the program outputs the name and description of that character's Bankai.
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 𝐎𝐮𝐭𝐩𝐮𝐭:
-Rukia Kuchiki Bankai = 1
+>Rukia Kuchiki Bankai = 1
 Byakuya Kuchiki Bankai = 2
 Ichigo Kurosaki Bankai = 3
 Tōshirō Hitsugaya Bankai = 4
